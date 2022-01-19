@@ -10,7 +10,6 @@ Developed a face mask detector with 99% accuracy. It can automatically detect wh
 * [Model Visualization](https://github.com/digvijaysingh2000/Computer-Vision#model-visualization)
 * [Results](https://github.com/digvijaysingh2000/Computer-Vision#results)
 * [Impact and Future Scope](https://github.com/digvijaysingh2000/Computer-Vision#impact-and-future-scope)
-* [Team](https://github.com/digvijaysingh2000/Computer-Vision#team)
 
 ## Overview
 * In Covid 19 Mask Detector we used OpenCV, Tensorflow/Keras, and Deep Learning.
