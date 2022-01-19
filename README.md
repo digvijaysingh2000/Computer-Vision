@@ -5,7 +5,6 @@ Developed a face mask detector with 99% accuracy. It can automatically detect wh
 * [Overview](https://github.com/digvijaysingh2000/Computer-Vision#overview)
 * [Motivation](https://github.com/digvijaysingh2000/Computer-Vision#motivation)
 * [Libraries used](https://github.com/digvijaysingh2000/Computer-Vision#libraries-used)
-* [Dataset](https://github.com/digvijaysingh2000/Computer-Vision#dataset)
 * [Generating the Training Data](https://github.com/digvijaysingh2000/Computer-Vision#generating-the-training-data)
 * [Model](https://github.com/digvijaysingh2000/Computer-Vision#model)
 * [Model Visualization](https://github.com/digvijaysingh2000/Computer-Vision#model-visualization)
@@ -30,9 +29,6 @@ Developed a face mask detector with 99% accuracy. It can automatically detect wh
 * Pandas
 * Numpy
 * Matplotlib
-
-## Dataset
-https://github.com/digvijaysingh2000/Computer-Vision/tree/master/DataSet
 
 ## Generating the Training Data
 * Imported the dataset, and retained only those images with a classname either 'face_with_mask' or 'face_without_mask'.
